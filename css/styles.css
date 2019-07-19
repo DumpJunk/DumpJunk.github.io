@@ -1,1 +1,22 @@
+:root {
 
+	/* primary */
+	--yellow: #EBB700; 
+	--blue: #00338D; 
+	--gray: #55565A; 
+	
+	/* secondary colors */
+	--lightblue: #407CCA; 
+	--purple: #7A2582;
+	--darkblue: #0D2240;
+	--green: #00AB68;
+	--coolgray: #B3B2B1;	
+	--orange: #FF5B35;
+  
+}
+
+
+
+html, body {
+    background-color: var(--gray); 
+}
